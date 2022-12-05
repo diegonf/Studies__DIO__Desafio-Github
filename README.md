@@ -1,2 +1,2 @@
-# Studies__DIO__Desafio-Github
+# Repositório do Desafio de Projeto sobre Git/Github da DIO
 Desafio de projeto sobre github - Bootcamp Carrefour
