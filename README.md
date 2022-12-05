@@ -1,2 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/Github da DIO
-Desafio de projeto sobre github - Bootcamp Carrefour
+# Desafio de Projeto sobre Git/Github
+Primeiro repositório criado na DIO para o desafio de projeto.
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
